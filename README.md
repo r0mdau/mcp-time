@@ -25,6 +25,11 @@ mcp-time/
 - `get_current_time`: Return current time in a given IANA timezone (default UTC)
 - `convert_time`: Convert time between timezones in HH:MM format
 
+Example prompt use in Github Copilot:
+
+- `Get the current time in New York using the MCP Time Server tool.`
+- `Convert 14:30 from London time to Tokyo time using the MCP Time Server tool.`
+
 ## Development
 
 ### Build and Run
